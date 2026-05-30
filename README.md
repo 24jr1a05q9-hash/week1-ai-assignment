@@ -19,3 +19,5 @@ Uses Cat Facts API to fetch and display random cat facts using Python requests l
 - JSON
 - Requests Library
 - Git & GitHub
+
+- Submitted for AIML Internship Week 1 Assignment
